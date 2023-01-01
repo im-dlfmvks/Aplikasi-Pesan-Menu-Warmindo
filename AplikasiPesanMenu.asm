@@ -80,7 +80,7 @@ MULAI :
    MOV AH,09
    LEA DX,kpl2
    INT 21h
-   
+  
    MOV AH,09
    LEA DX,kpl3
    INT 21h   
